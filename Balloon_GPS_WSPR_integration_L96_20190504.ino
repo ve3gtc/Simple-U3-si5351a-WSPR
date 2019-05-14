@@ -75,7 +75,7 @@
 #define JT65_DEFAULT_FREQ       14078300UL
 #define JT4_DEFAULT_FREQ        14078500UL
 //#define WSPR_DEFAULT_FREQ        7038720UL     // dial frequency ... pluse 120 Hz
-#define WSPR_DEFAULT_FREQ       10138650UL     // dial frequency ... 10138800 pluse 100 Hz  10.140273
+#define WSPR_DEFAULT_FREQ       10138740UL     // dial frequency ... 10138800 pluse 100 Hz  10.140273  - 10138650  10138800  10138740
 #define FSQ_DEFAULT_FREQ         7105350UL     // Base freq is 1350 Hz higher than dial freq in USB
 #define FT8_DEFAULT_FREQ        14075000UL
 
